@@ -18,12 +18,12 @@ Para ello he utilizado varios assets distintos que me han facilitado hacer un bo
 </div>
 
 Les he asignado una etiqueta a cada elemento creando las siguientes secciones:
-	- Fence
-	- PNJ
-	- Light
-	- House
-	- Extras
-	- Player
+- Fence
+- PNJ
+- Light
+- House
+- Extras
+- Player
 
 Para la ejecución del juego he eliminado la cámara principal ya que mediante el standar Assets el controlador en primera persona trae una cámara incorporada y la cámara principal que se crea por defecto perdería utilidad. Por otra parte, he implementado un pequeño script que muestra por consola cuando se crea cada objeto y cadad iteración del mismo.
 <div align="center">
