@@ -28,6 +28,6 @@ Les he asignado una etiqueta a cada elemento creando las siguientes secciones:
 Para la ejecución del juego he eliminado la cámara principal ya que mediante el standar Assets el controlador en primera persona trae una cámara incorporada y la cámara principal que se crea por defecto perdería utilidad. Por otra parte, he implementado un pequeño script que muestra por consola cuando se crea cada objeto y cadad iteración del mismo.
 <div align="center">
   <br>
-  <img src="img/animation.gif" alt="Markdownify">
+  <img src="img/Animation.gif" alt="Markdownify">
 </div>
 
