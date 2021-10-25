@@ -5,44 +5,68 @@
 
 
 * **Ninguno de los objetos será físico.**
+
+Al no ser físicos, los objetos no son afectados por la gravedad.
 <div align="center">
   <br>
   <img src="img/1a.png" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
 * **La esfera tiene físicas, el cubo no.**
+
+Como la esfera es física, es afectada por la gravedad y cae hasta que choca con el plano.
 <div align="center">
   <br>
   <img src="img/1b.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
 * **La esfera y el cubo tienen físicas.**
+
+Al ser físicos los objetos caen contra el plano.
 <div align="center">
   <br>
   <img src="img/1c.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
 * **La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo.**
+
+La masa no afecta a la velocidad de caida, imaginamos que le coeficiente de rozamiento es nulo.
 <div align="center">
   <br>
   <img src="img/1d.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
 * **La esfera tiene físicas y el cubo es de tipo IsTrigger.**
+
+Para comprobar que la esfera es física y el cubo no, he colocado la esfera por encima del cubo, al iniciar la simulación la esfera cae atravesando el cubo mientras que este se queda en su posición.
 <div align="center">
   <br>
   <img src="img/1e.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
 * **La esfera tiene físicas, el cubo es de tipo IsTrigger y tiene físicas.**
+
+Ambos objetos caen, pero como el cubo es de tipo IsTrigger en lugar de chocar contra el plano lo atraviesa.
 <div align="center">
   <br>
   <img src="img/1f.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -50,6 +74,8 @@
 <div align="center">
   <br>
   <img src="img/1g.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -63,6 +89,8 @@
 <div align="center">
   <br>
   <img src="img/2a.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -70,13 +98,19 @@
 <div align="center">
   <br>
   <img src="img/2b.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
-* **Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuales se va a permitir utilizar: flechas awsd.**
+* **Elegir otros ejes virtuales para el girar al jugador sobre el oeje OY (up)**
+
+Teclas Q y E para rotar a izquierda y derecha respectivamente.
 <div align="center">
   <br>
   <img src="img/2c.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -90,6 +124,8 @@
 <div align="center">
   <br>
   <img src="img/3a.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -97,6 +133,8 @@
 <div align="center">
   <br>
   <img src="img/3b.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -104,6 +142,8 @@
 <div align="center">
   <br>
   <img src="img/3c.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -111,6 +151,8 @@
 <div align="center">
   <br>
   <img src="img/3d.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
 
 
@@ -118,4 +160,6 @@
 <div align="center">
   <br>
   <img src="img/3e.gif" alt="Markdownify">
+  <br>
+  <br>
 </div>
