@@ -109,8 +109,11 @@ Con la propiedad **worldToCameraMatrix** de la cámara.
 ### 17. Especifica la matriz de la proyección usado en un instante de la ejecución del ejercicio 1 de la práctica 1.
 
 1.355769	0 				0   			0
+
 0           -2.779329		-1.098895   	3.520997
+
 0 			0.0001103238	-0.0002790314   0.2963979
+
 0 			-0.367685       0.9299504		12.30514
 
 ---
@@ -118,8 +121,11 @@ Con la propiedad **worldToCameraMatrix** de la cámara.
 ### 18. Especifica la matriz de modelo y vista de la escena del ejercicio 1 de la práctica 1.
 
 1 	0 	0 	0
+
 0 	1 	0 	0
+
 0 	0 	1 	0
+
 0 	0 	0 	1
 
 ---
@@ -127,8 +133,11 @@ Con la propiedad **worldToCameraMatrix** de la cámara.
 ### 19. Aplica una rotación en el start de uno de los objetos de la escena y muestra la matriz de cambio al sistema de referencias mundial.
 
 1 	0 	0 	0
+
 0 	1 	0 	-5
+
 0 	0 	-1 	-15
+
 0 	0 	0 	-1
 
 ---
