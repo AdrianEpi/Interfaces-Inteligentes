@@ -18,7 +18,8 @@ Transform.Translate, transform.Rotate y transform.localScale
 
 ### 4. Como trasladarías 3 metros en cada uno de los ejes y luego lo rotas 30º alrededor del eje Y?
 
-```transform.position = new Vector3(transform.position.x + 3, transform.position.y + 3, transform.position.z + 3); 
+```
+transform.position = new Vector3(transform.position.x + 3, transform.position.y + 3, transform.position.z + 3); 
 transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y + 30, transform.rotation.z);
 ```
 
@@ -27,7 +28,8 @@ transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y 
 ### 5. Como rotarías un objeto sobre el eje (1,1,1)
 
 
-```transform.rotation = Quaternion.Euler(1, 1, 1);
+```
+transform.rotation = Quaternion.Euler(1, 1, 1);
 ```
 
 ---
@@ -35,7 +37,8 @@ transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y 
 ### 6. Rota un objeto alrededor del eje Y 30ª y desplázalo 3 metros en cada uno de los ejes. ¿Obtendrías el mismo resultado que en 4?
 
 Si, se obtendría el mismo resultado.
-```transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y + 30, transform.rotation.z);
+```
+transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y + 30, transform.rotation.z);
 transform.position = new Vector3(transform.position.x + 3, transform.position.y + 3, transform.position.z + 3); 
 ```
 
@@ -73,7 +76,8 @@ Se puede realizar el proyección mediante la matriz de proyecciones.
 
 ### 12. Especifica la rotación de los apartados 4 y 6 con la utilidad quaternion.
 
-```transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y + 30, transform.rotation.z);
+```
+transform.rotation = Quaternion.Euler(tranform.rotation.x, transform.rotation.y + 30, transform.rotation.z);
 ```
 
 ---
